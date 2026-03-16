@@ -3,7 +3,7 @@ This project demonstrates the setup and management of a professional IT Service 
 
 
 ## 🛠️ Core Configurations
-### 1. Customer Service Portal
+### 1. Customer Service Portal (./screenshots/Customer Portal.PNG)
 I designed a user-centric portal with categorized request types (Hardware, Software, Access) to ensure clean data intake from the start.
 * **Key Feature:** Customized field requirements to reduce "ticket ping-pong."
 
