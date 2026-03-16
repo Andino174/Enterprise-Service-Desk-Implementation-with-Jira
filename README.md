@@ -20,6 +20,10 @@ To ensure business accountability, I implemented Service Level Agreements (SLAs)
 ![Auto Rules](screenshots/Automation-Rules.PNG)
 I developed several automation rules to increase departmental efficiency.
 
+### 4. Dashboard
+![ITDashboard](screenshots/The-Help-Desk-Dashboard.PNG)
+Developed a dashboard to streamline reporting, improve data accuracy, and accessibility.
+
 ## 📝 Documented SOPs
 Included in this project are standardized procedures for:
 * **VPN Password Resets** (Identity verification focused)
