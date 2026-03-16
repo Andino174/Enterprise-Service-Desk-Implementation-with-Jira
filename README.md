@@ -10,6 +10,7 @@ I designed a user-centric portal with categorized request types (Hardware, Softw
 
 ### 2. SLA & Queue Management
 ![Jira Queue](screenshots/Agent-Queue.PNG)
+![SLA](screenshots/SLAs&Goals.PNG)
 To ensure business accountability, I implemented Service Level Agreements (SLAs) based on industry standards.
 * **Response Goal:** 4 Hours.
 * **Resolution Goal:** 24 Hours.
