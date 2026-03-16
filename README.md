@@ -16,9 +16,9 @@ To ensure business accountability, I implemented Service Level Agreements (SLAs)
 * **Resolution Goal:** 24 Hours.
 * **Logic:** Timers automatically pause when a ticket is moved to "Waiting for Customer."
 
-### 3. Knowledge Base (KCS) Integration
-Integrated **Confluence** to provide real-time "Ticket Deflection." 
-* Users are presented with SOPs (Standard Operating Procedures) as they type their request.
+### 3. Automation Logic
+![Auto Rules](screenshots/Automation-Rules.PNG)
+I developed several automation rules to increase departmental efficiency.
 
 ## 📝 Documented SOPs
 Included in this project are standardized procedures for:
